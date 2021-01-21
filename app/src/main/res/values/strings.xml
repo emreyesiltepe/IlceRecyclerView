@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">H5190073_CelalEmreYesiltepeFinal</string>
+    <string name="txtIlceAdiBaslik"> İlçe Adı </string>
+    <string name="txtNufusu">Nüfus </string>
+    <string name="txtMeshurYemegi">Meşhur Yemeği</string>
+    <string name="progressDialogBaslik">Yükleniyor...</string>
+    <string name="internetKontrolAlertPositiveButton">İnterneti Aç!</string>
+    <string name="internetKontrolAlertNegativeButton">Uygulamayı Kapa</string>
+    <string name="internetAlertBaslik">İnternet Bağlantınız Yok</string>
+    <string name="internetAlertMesaj">Uygulamayı Kullanmaya Devam Etmek İçin Cihazınızı İnternete Bağlayın</string>
+    <string name="cikisAlertPositiveButton">Evet</string>
+    <string name="cikisAlertNegativeButton">Hayır</string>
+    <string name="cikisAlertBaslik">Çıkış Yap</string>
+    <string name="cikisAlertMesaj">Çıkış Yapmak İstediğinize Emin Misiniz?</string>
+    <string name="secondActivityAciklama">Türkiye Cumhuriyeti Sınırları İçinde Bulunan Trabzon İlinin İlçelerini Anlatan Uygulama</string>
+</resources>

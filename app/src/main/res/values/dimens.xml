@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="constraintLayoutHeight">190dp</dimen>
+    <dimen name="kapakYazi">20sp</dimen>
+    <dimen name="firstImageViewHeight">166dp</dimen>
+    <dimen name="firstImageViewWidth">261dp</dimen>
+    <dimen name="firstImageViewLayoutMarginTop">80dp</dimen>
+    <dimen name="ilceImageVievHeight">200dp</dimen>
+    <dimen name="ilceTextPadding">10dp</dimen>
+    <dimen name="ilceTextSize">30sp</dimen>
+    <dimen name="ilceViewPadding">10dp</dimen>
+    <dimen name="ilceViewSize">20sp</dimen>
+    <dimen name="secondImageViewHeight">250dp</dimen>
+    <dimen name="secondTextViewMarginTop">32dp</dimen>
+    <dimen name="cardViewMargin">16dp</dimen>
+    <dimen name="cardViewImageWidth">129dp</dimen>
+    <dimen name="cardViewImageHeight">140dp</dimen>
+    <dimen name="cardViewTextMarginStart">15dp</dimen>
+    <dimen name="cardViewTextMarginLeft">15dp</dimen>
+    <dimen name="cardViewTextMarginTop">20dp</dimen>
+    <dimen name="cardTextMarginStart">15dp</dimen>
+    <dimen name="cardTextMarginLeft">15dp</dimen>
+    <dimen name="cardTextMarginTop">5dp</dimen>
+    <dimen name="cardText2MarginStart">15dp</dimen>
+    <dimen name="cardText2MarginLeft">15dp</dimen>
+    <dimen name="cardText2MarginTop">5dp</dimen>
+    <dimen name="cardText3MarginStart">15dp</dimen>
+    <dimen name="cardText3MarginLeft">15dp</dimen>
+    <dimen name="cardText3MarginTop">10dp</dimen>
+</resources>
